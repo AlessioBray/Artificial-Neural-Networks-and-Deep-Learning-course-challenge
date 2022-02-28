@@ -24,7 +24,7 @@ The goal of the challenge is to classify images of people wearing masks into one
 - **Evaluation**: Multiclass Accuracy 98%
 - **Ranking**: 3rd on public leaderboard
 
-<img src="assets/challenge1.jpg" width="500"/>
+<img src="img/challenge1.jpg" width="500"/>
 
 [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%201/Challenge_1_report.pdf) is a complete description on how we approached the challenge and how we got our best model. [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%201/Challenge_1_report.pdf) the notebook containing the best model.
 
@@ -45,7 +45,7 @@ The segmented objects can belong to one of three classes:
 - **Evaluation**: Global Intersection over Union 72.67%
 - **Rannking**: 15th on private leaderboard
 
-| <img src="assets/challenge2.jpg" width="400"/> | <img src="assets/challenge2_mask.jpg" width="400"/> |
+| <img src="img/challenge2.jpg" width="400"/> | <img src="img/challenge2_mask.jpg" width="400"/> |
 |:---:|:---:| 
 | Input image | Target mask |
 
@@ -63,7 +63,7 @@ The goal of the challenge is to answer questions using the information provided 
 - **Evaluation**: Multiclass Accuracy 66.87%
 - **Rannking**: 3rd on public leaderboard
 
-<img src="assets/challenge3.jpg" width="500"/>
+<img src="img/challenge3.jpg" width="500"/>
 
 [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%203/Challenge_3_report.pdf) is a complete description on how we approached the challenge and how we got our best model. [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%203/TensorBros_Challenge_3.ipynb) the notebook containing the best model.
 

@@ -49,7 +49,7 @@ The segmented objects can belong to one of three classes:
 |:---:|:---:| 
 | Input image | Target mask |
 
-[Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%202/Challenge_2_report.pdf) is a complete description on how we approached the challenge and how we got our best model. [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%202/TensorBros_Challenge_2.ipynb) the notebook containing the best model for the development phase. [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%202/TensorBros_Challenge_2.ipynb) the notebook containing the best model for the final phase. 
+[Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%202/Challenge_2_report.pdf) is a complete description on how we approached the challenge and how we got our best model. [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%202/TensorBros_Challenge_2.ipynb) the notebook containing the best model for the development phase. [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%202/TensorBros_Challenge_2_NEW_DATA.ipynb) the notebook containing the best model for the final phase. 
 
 ## Visual Question Answering
 [![Kaggle](https://img.shields.io/badge/open-kaggle-blue)](https://www.kaggle.com/c/anndl-2020-vqa/overview)

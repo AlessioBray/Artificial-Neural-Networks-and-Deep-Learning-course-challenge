@@ -26,7 +26,7 @@ The goal of the challenge is to classify images of people wearing masks into one
 
 <img src="img/challenge1.jpg" width="500"/>
 
-[Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%201/Challenge_1_report.pdf) is a complete description on how we approached the challenge and how we got our best model. [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%201/Challenge_1_report.pdf) the notebook containing the best model.
+[Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%201/Challenge_1_report.pdf) is a complete description on how we approached the challenge and how we got our best model. [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%201/TensorBros_Challenge_1.ipynb) the notebook containing the best model.
 
 ## Image Segmentation
 [![CodaLab](https://img.shields.io/badge/open-CodaLab-green)](https://competitions.codalab.org/competitions/27176)

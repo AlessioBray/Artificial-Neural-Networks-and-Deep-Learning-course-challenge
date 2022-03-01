@@ -43,7 +43,7 @@ The segmented objects can belong to one of three classes:
 ### Results
 
 - **Evaluation**: Global Intersection over Union 72.67%
-- **Rannking**: 15th on private leaderboard
+- **Ranking**: 15th on private leaderboard
 
 | <img src="img/challenge2.jpg" width="400"/> | <img src="img/challenge2_mask.jpg" width="400"/> |
 |:---:|:---:| 
@@ -61,7 +61,7 @@ The goal of the challenge is to answer questions using the information provided 
 ### Results
 
 - **Evaluation**: Multiclass Accuracy 66.87%
-- **Rannking**: 3rd on public leaderboard
+- **Ranking**: 3rd on public leaderboard
 
 <img src="img/challenge3.jpg" width="500"/>
 

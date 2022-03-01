@@ -9,7 +9,7 @@ The competition was divided into three challenges, each one of them cover a diff
 
 Me and my teammate @matteogambella partecipated at the competition under the name of **TensorBros**
 
-## Image Classification
+## Challenge 1 - Image Classification
 [![Kaggle](https://img.shields.io/badge/open-kaggle-blue)](https://www.kaggle.com/c/artificial-neural-networks-and-deep-learning-2020/overview)
 
 The goal of the challenge is to classify images of people wearing masks into one of three classes:
@@ -28,7 +28,7 @@ The goal of the challenge is to classify images of people wearing masks into one
 
 [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%201/Challenge_1_report.pdf) is a complete description on how we approached the challenge and how we got our best model. [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%201/TensorBros_Challenge_1.ipynb) the notebook containing the best model.
 
-## Image Segmentation
+## Challenge 2 - Image Segmentation
 [![CodaLab](https://img.shields.io/badge/open-CodaLab-green)](https://competitions.codalab.org/competitions/27176)
 
 The goal of the challenge is to perform precise automatic crop and weed segmentation for the agricoltural sector.\
@@ -51,7 +51,7 @@ The segmented objects can belong to one of three classes:
 
 [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%202/Challenge_2_report.pdf) is a complete description on how we approached the challenge and how we got our best model. [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%202/TensorBros_Challenge_2.ipynb) the notebook containing the best model for the development phase. [Here](https://github.com/AlessioBray/Artificial-Neural-Networks-and-Deep-Learning-course-challenge/blob/main/Challenge%202/TensorBros_Challenge_2_NEW_DATA.ipynb) the notebook containing the best model for the final phase. 
 
-## Visual Question Answering
+## Challenge 3 - Visual Question Answering
 [![Kaggle](https://img.shields.io/badge/open-kaggle-blue)](https://www.kaggle.com/c/anndl-2020-vqa/overview)
 
 The goal of the challenge is to answer questions using the information provided by the corresponding image and question pair. The given input is an image and an associated question about it, and the output is an answer, belonging to one of three possible categories: 'yes/no', 'counting' (from 0 to 5) and 'other' (e.g. colors, location, ecc.).

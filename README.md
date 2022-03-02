@@ -7,7 +7,7 @@ The competition was divided into three challenges, each one of them cover a diff
 - Image Segmentation
 - Visual Question Answering
 
-Me and my teammate @matteogambella partecipated at the competition under the name of **TensorBros**
+Me and my teammate @matteogambella partecipated at the competition under the name of **TensorBros**.
 
 ## Challenge 1 - Image Classification
 [![Kaggle](https://img.shields.io/badge/open-kaggle-blue)](https://www.kaggle.com/c/artificial-neural-networks-and-deep-learning-2020/overview)
